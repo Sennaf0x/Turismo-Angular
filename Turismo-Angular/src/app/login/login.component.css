@@ -1,0 +1,58 @@
+.banner{
+  display: flex;
+  background-image: url("../../assets/images/restaurante-keila-8.jpg");
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-attachment:local;
+}
+.intro{
+  width: 50%;
+  height: 450px;
+  border: 1px solid;
+}
+.form{
+  background-color:#EEEFE6 0.5;
+  Width:40%;
+  padding: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-around;
+  box-shadow: 5px 1px 1px gray;
+}
+
+.login{
+  width: 40%;
+  height:280px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: center;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 1px 1px 5px gray;;
+}
+
+.signin{
+  width: 40%;
+  height:280px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 1px 2px 1px;
+}
+
+span{
+  width:100%;
+  margin:auto;
+}
+
+mat-form-field{
+  width: 250px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+}
